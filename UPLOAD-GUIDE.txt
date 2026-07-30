@@ -1,0 +1,30 @@
+GITHUB UPLOAD GUIDE
+
+1. Unzip this folder.
+2. Open https://github.com/VrajPagh/VrajPagh.github.io
+3. Click Add file → Upload files.
+4. Drag every item inside the unzipped folder into GitHub:
+   - assets folder
+   - projects folder
+   - index.html
+   - styles.css
+   - script.js
+   - resume.pdf
+   - README.md
+5. Write the commit message:
+   Add engineering portfolio website
+6. Click Commit changes.
+7. Go to Settings → Pages.
+8. Choose Deploy from a branch.
+9. Select main and / (root).
+10. Save.
+
+Your website address:
+https://vrajpagh.github.io
+
+IMPORTANT BEFORE APPLYING:
+- Replace YOUR_EMAIL@example.com
+- Add your LinkedIn URL
+- Replace resume.pdf with your current resume
+- Replace placeholder project images
+- Check every project page for placeholder wording
